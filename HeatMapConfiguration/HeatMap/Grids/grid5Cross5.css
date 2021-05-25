@@ -1,0 +1,9 @@
+.x-axisValue {
+  display: flex;
+  justify-content: space-around;
+  font-size: 18px;
+}
+
+.x-axisValue span {
+  font-weight: bolder;
+}
